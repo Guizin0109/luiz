@@ -1,11 +1,45 @@
-# Sample Snack app
+Trabalho do Luiz
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Requisitos:
+Empresas só poderão concluir cadatro se passarem na verificação (Consultar CNPJ e não ter protestos e um capital R$ 300.000)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Gradientes: 
+1. Cores Predominantes: Branco, Preto e Verde Claro
+2. Fontes minimalistas e simples
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Interface:
+1. Página de Login;
+Página simples com login em CNPJ e Senha;
+2. Entra direto na vitrine de produtos;
+3. Hamburgues com acesso: Sessão 1:Perfil, Meus Produtos, Sair. Sessão 2: Dados da empresa, quem somos, o que fazemos, etc;
+4. Navbar com filtro;
+5. Produtos na Vitíne: Foto, Nome e Descrição e Quantidade;
+6. Notificação de Novos Produtos;
+Produtos:
+1. Pack de fotos;
+2. Localização;
+3. Empresa;
+4. Ramo da empresa;
+5. Preço;
+6. Métodos de pagamentos;
+7. Contato
+8. Avaliação do Produto e da empresa
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Perfil: 
+Empresa: 
+1. Pode comprar
+2. Pode vender
+3. Pesquisar
+4. Entrar no perfil de outras empresas
+5. Avaliar
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+Tarefas:
+
+Caio: Login Completos e auxiliar na interface;
+Eduardo: Vitríne Inicial e Hamburgues;
+Guilherme: Notificações e cuidar da galeria;
+Léo: Interface de produtos e usuários;
+
+
+

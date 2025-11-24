@@ -13,7 +13,7 @@ export default function Login({ onLogin }) {
     if (usuario === usuarioCorreto && senha === senhaCorreta) {
       setErro("");
       onLogin(); 
-    } else {G
+    } else {
       setErro("Usuário ou senha incorretos.");
     }
   }
